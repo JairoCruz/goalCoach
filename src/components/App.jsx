@@ -23,7 +23,7 @@ class App extends Component {
 }
 
 function mapStateToProps(state) {
-	console.log('App state', state);
+	// console.log('App state', state);
 	return {}
 }
 
